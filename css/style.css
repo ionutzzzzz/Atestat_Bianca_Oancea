@@ -6,3 +6,31 @@ h4,
 h5 {
     font-family: "Raleway", sans-serif
 }
+
+.box {
+    height: auto;
+    width: 90%;
+    max-width: 100%;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: #616161;
+    overflow-wrap: break-word;
+}
+
+.about {
+    color: white;
+    margin: 5px;
+    padding: 10px;
+}
+
+.title{
+    margin-top: 40px;
+    justify-content: center !important;
+
+    display: flex !important;
+    color: #616161;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
